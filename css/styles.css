@@ -1,0 +1,25 @@
+table {
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table th {
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+
+table tr td{
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    background-color: #96D4D4;
+}
+
+.cabecera {
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
